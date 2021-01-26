@@ -1,0 +1,44 @@
+{
+    "bg": "https://preview.redd.it/9dmfs0g8cyf51.jpg?width=5120&format=pjpg&auto=webp&s=6ad6724ef04a37b967dcce5a686e978ab8045a3c",
+    "title": "Quiz da Ghibli",
+    "description": "Teste os seus conhecimentos sobre a história da Ghibli e suas criações",
+    "questions": [
+      {
+        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
+        "title": "Como fazer um seletor por id via CSS?",
+        "description": "Essa é pra aquecer",
+        "answer": 2,
+        "alternatives": [
+          ".elemento",
+          "*elemento",
+          "#elemento",
+          "%elemento"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+        "title": "Como fazer um background gradiente com css?",
+        "description": "Faz tempo em haha",
+        "answer": 0,
+        "alternatives": [
+           "background: linear-gradient(#e66465, #9198e5);",
+           "background: gradient(#e66465, #9198e5);"
+        ]
+      }
+    ],
+    "external": [
+      ""
+    ],
+    "theme": {
+      "colors": {
+        "primary": "#aa2e25",
+        "secondary": "#52b202",
+        "mainBg": "#000000",
+        "contrastText": "#FFFFFF",
+        "wrong": "#FF5722",
+        "success": "#4CAF50"
+      },
+      "borderRadius": "4px"
+    }
+  }
+  
